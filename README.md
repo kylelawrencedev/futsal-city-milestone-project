@@ -1,45 +1,29 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+The Strategy Plane:
+Target Audience-The General Public and appealing to Corporate Sponsors
+Relevant Content- Show past and future fixtures to give supporters an idea of how the team has been doing.
+                  Contact form so supporters can email club about purchasing tickets and/or any other questions they may have. Also easier for potential corporate sponsors to get into contact with the club about potential sponsorship deals.
+                  Club news on home page for supporters to keep up-to-date with anything happening at the club
+                  Club Social Events to increase supporter engagement at the club 
+                  Mini-gallery on home page helps add colour to the page as well as show off the club kit and players. Show club kit will increase the chances of site visitors buying the kit, thus increasing cash flow.
+                  
+Supporter Needs- Club informaton in regards to fixtures and results. Keeping fixtures and results up to date means supporters know they can rely on the club keeping them up-to-date with how the club is doing. Lowering the posibility of supporters using other sites for that informaton, meaning supporters are more engaged with the site and the club.
+                 
 
-Welcome USER_NAME,
+The Scope Plane
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The Structure Plane
 
-## Gitpod Reminders
+The Skeleton Plane
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The Surface Plane
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+Images
 
-Another blue button should appear to click: *Open Browser*.
+Football Logo Image by<a href="https://www.freepik.com/vectors/background">Background vector created by vectortwins - www.freepik.com</a>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+Team kneeling Image by <a href="https://pixabay.com/users/tomas_workman0-1113596/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=807300">Tom Workman</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=807300">Pixabay</a>
+Player kicking ball Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=83222">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=83222">Pixabay</a>
+Goalkeeper making save Image by <a href="https://pixabay.com/users/phillipkofler-715497/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5754865">Phillip Kofler</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5754865">Pixabay</a>
+Fan in Stadium Image by <a href="https://pixabay.com/users/damonify-185084/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=290186">Damon Nofar</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=290186">Pixabay</a>
+Football Stadium Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1867992">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1867992">Pixabay</a>
